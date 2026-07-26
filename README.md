@@ -48,7 +48,7 @@ Reported fall-detection performance across benchmark datasets is rarely compared
 | F1 Score  | 93.25%  | 71.24%   |
 | Accuracy  | 94.35%  | 79.48%   |
 
-See the [full report](report/Fall_Detection_IEEE_Report.pdf) for the complete methodology, cross-dataset fine-tuning results, feature-importance analysis, and discussion.
+
 
 ## Requirements
 
