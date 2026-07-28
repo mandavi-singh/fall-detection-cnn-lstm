@@ -19,9 +19,6 @@ Reported fall-detection performance across benchmark datasets is rarely compared
 ├── notebooks/
 │   ├── sisfall-cnn-lstm-fall-detection-50hz-waist.ipynb
 │   ├── fallalld-cnn-lstm-fall-detection-50hz-waist.ipynb
-│  
-├── results/
-│   └── (LOSO fold metrics, feature-ablation CSVs)
 ├── figures/
 │   ├── fig_signals.png        # raw fall vs ADL signal visualization
 │   └── fig_featimp.png        # channel-ablation feature importance
